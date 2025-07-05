@@ -53,23 +53,23 @@ voice-assistant/
 ├── model_train.py          # Train the assistant model
 ```
 
-▶️ How to Run
+## ▶️ How to Run
 
-# Clone the repository
+Clone the repository
 git clone https://github.com/your-username/voice-assistant.git
 cd voice-assistant
 
-# (Optional) Create virtual environment
+(Optional) Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# Run the assistant
+Run the assistant
 python main.py
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 1. Add context-based conversations
 2. GUI-based interface for better usability
 3. Add support for real-time weather, news, or reminders
