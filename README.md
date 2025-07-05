@@ -55,18 +55,19 @@ voice-assistant/
 
 ## ▶️ How to Run
 
-Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/voice-assistant.git
+
 cd voice-assistant
 
-(Optional) Create virtual environment
+2. (Optional) Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-Run the assistant
+4. Run the assistant
 python main.py
 
 ## 🔮 Future Improvements
