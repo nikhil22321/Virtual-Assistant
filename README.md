@@ -53,7 +53,6 @@ voice-assistant/
 ├── model_train.py          # Train the assistant model
 ```
 
-## ▶️ How to Run
 
 ## ▶️ How to Run
 
